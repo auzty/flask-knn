@@ -1,0 +1,114 @@
+ID,Salary,Position Class,Job Family,Age,Key Employee,High Performer,Gender
+1,28000,44,Sales and Marketing,22,No,No,Male
+2,28000,44,Products,23,No,No,Female
+3,28000,44,Business Development,23,No,No,Male
+4,28000,44,Technology,23,No,No,Female
+5,28000,44,Operations,24,No,Yes,Female
+6,28000,44,General Management / Administration,25,No,No,Male
+7,28091,44,Offline,25,Yes,No,Male
+8,28500,45,Analytics,25,No,No,Female
+9,28500,45,Finance,25,No,No,Male
+10,28900,45,Human Resources,25,No,Yes,Female
+11,28930,45,Legal,25,No,Yes,Female
+12,29091,45,Sales and Marketing,25,No,No,Male
+13,29091,45,Products,25,No,No,Male
+14,30000,45,Business Development,25,No,No,Male
+15,30000,46,Technology,26,No,No,Female
+16,30000,46,Operations,26,No,No,Female
+17,30000,46,General Management / Administration,26,No,No,Female
+18,30000,46,Offline,27,No,No,Male
+19,30000,46,Analytics,27,No,No,Male
+20,30000,46,Finance,27,No,No,Male
+21,30000,46,Human Resources,27,No,No,Male
+22,30000,47,Legal,28,No,No,Female
+23,30500,47,Sales and Marketing,28,No,Yes,Female
+24,30620,47,Products,28,No,No,Male
+25,30840,47,Business Development,28,No,No,Male
+26,32000,47,Technology,28,No,No,Female
+27,32000,47,Operations,28,No,No,Male
+28,32000,47,General Management / Administration,28,No,No,Male
+29,32000,48,Offline,28,No,No,Male
+30,32091,48,Analytics,28,No,No,Female
+31,32570,48,Finance,28,No,No,Male
+32,32570,48,Human Resources,29,No,No,Male
+33,32750,48,Legal,29,No,No,Male
+34,33000,48,Sales and Marketing,29,No,Yes,Male
+35,33000,48,Products,30,No,No,Male
+36,33091,49,Business Development,30,No,No,Male
+37,34500,49,Technology,30,No,No,Male
+38,34500,49,Operations,30,No,No,Male
+39,35000,49,General Management / Administration,30,No,Yes,Female
+40,35000,49,Offline,30,No,Yes,Male
+41,35000,49,Analytics,30,No,No,Male
+42,35091,50,Finance,30,No,No,Male
+43,35091,50,Human Resources,30,No,No,Male
+44,35110,50,Legal,30,No,No,Male
+45,35110,50,Sales and Marketing,31,No,No,Male
+46,35500,50,Products,31,No,No,Male
+47,36000,50,Business Development,31,No,No,Male
+48,36140,51,Technology,31,No,No,Male
+49,36300,51,Operations,31,No,No,Male
+50,36630,51,General Management / Administration,31,No,No,Male
+51,37091,51,Offline,31,No,No,Female
+52,37290,51,Analytics,32,Yes,No,Female
+53,38000,51,Finance,32,No,No,Female
+54,38000,52,Human Resources,32,Yes,No,Male
+55,38100,52,Legal,32,No,No,Female
+56,38850,52,Sales and Marketing,32,No,Yes,Female
+57,39000,52,Products,32,No,No,Female
+58,39500,52,Business Development,32,No,Yes,Male
+59,40000,52,Technology,33,No,No,Female
+60,40000,53,Operations,33,No,No,Male
+61,40000,53,General Management / Administration,33,No,No,Male
+62,40700,53,Offline,33,No,No,Male
+63,40900,53,Analytics,33,No,No,Male
+64,41000,53,Finance,33,No,No,Male
+65,41290.66667,53,Human Resources,33,No,No,Male
+66,42500,54,Legal,33,No,No,Female
+67,43000,54,Sales and Marketing,33,No,No,Male
+68,43000,54,Products,34,No,No,Female
+69,44000,54,Business Development,34,No,No,Male
+70,45000,54,Technology,34,No,No,Male
+71,45091,54,Operations,35,No,No,Male
+72,45770,55,General Management / Administration,35,No,Yes,Male
+73,46100,55,Offline,35,Yes,No,Female
+74,48000,55,Analytics,35,No,No,Male
+75,48500,55,Finance,35,No,No,Female
+76,50000,55,Human Resources,35,No,No,Male
+77,50000,55,Legal,36,No,No,Female
+78,50000,56,Sales and Marketing,36,No,No,Female
+79,51091,56,Products,36,Yes,Yes,Male
+80,51100,56,Business Development,36,Yes,Yes,Male
+81,53000,56,Technology,36,Yes,No,Female
+82,53650,56,Operations,37,No,Yes,Male
+83,54150,56,General Management / Administration,37,No,Yes,Male
+84,54150,57,Offline,37,No,No,Male
+85,55000,57,Analytics,37,No,Yes,Male
+86,55000,57,Finance,38,No,No,Male
+87,55000,57,Human Resources,39,No,Yes,Female
+88,55000,57,Legal,39,Yes,Yes,Male
+89,55261,57,Sales and Marketing,39,Yes,No,Male
+90,58000,58,Sales and Marketing,39,No,Yes,Male
+91,58000,58,Analytics,39,No,No,Male
+92,60000,58,Sales and Marketing,39,No,No,Male
+93,60091,58,Products,40,No,No,Female
+94,60300,58,Business Development,40,No,No,Female
+95,63950,58,Technology,40,No,Yes,Female
+96,65000,59,Operations,41,No,No,Male
+97,65000,59,General Management / Administration,41,No,No,Male
+98,68000,59,Offline,41,No,No,Female
+99,70000,59,Analytics,42,No,No,Male
+100,70000,59,Finance,42,No,No,Female
+101,70000,59,Human Resources,42,No,No,Male
+102,70091,60,Legal,43,No,No,Female
+103,72000,60,Sales and Marketing,43,No,Yes,Female
+104,75000,60,Products,43,No,No,Male
+105,80000,60,Business Development,43,No,No,Male
+106,80000,60,Technology,44,No,No,Male
+107,81380,60,Operations,45,No,No,Female
+108,88400,61,General Management / Administration,46,No,No,Female
+109,75000,61,Offline,46,No,No,Female
+110,78000,61,Analytics,48,No,No,Female
+111,82000,61,Finance,48,No,No,Male
+112,85000,61,Human Resources,53,No,No,Male
+113,80000,61,Legal,59,No,No,Male
